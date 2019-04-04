@@ -16,10 +16,10 @@
     "name": "com.unity.xr.openvr.standalone", 
     "repoPackagePath": "build/packages/com.unity.xr.openvr.standalone", 
     "repository": {
-        "revision": "c41ec43db5cdde3a1cd5e1eaa8dd72a682dfe17f", 
+        "revision": "0598462f582f47634c097b5afde2fed017591d9d", 
         "type": "git", 
         "url": "ssh://git@github.com/Unity-Technologies/upm-xr-openvr.git"
     }, 
     "unity": "2018.3", 
-    "version": "1.0.3"
+    "version": "1.0.5"
 }

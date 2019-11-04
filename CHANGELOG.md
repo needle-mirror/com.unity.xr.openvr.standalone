@@ -4,6 +4,11 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.5] - 2019-11-05
+
+Added package deprecation information.
+Bumped major version number to isolate deprecation messaging to packages targeting 2019.3+
+
 ## [1.0.5] - 2019-04-05
 
 Removed documentation meta files to clean up some console spew when adding the package.
@@ -41,9 +46,3 @@ Add Documentation.meta file
 ## [0.0.1] - 2018-03-01
 
 ### This is the first release of the OpenVR XR Package.
-
-*Short description of this release*
-This is the first test iteration of the OpenVR XR Package using the Package Manager process. This package is a replica of the builds.zip hosted at:
-https://ono.unity3d.com/unity-extra/vr-openvr-external#trunk
-
-We are bringing over all libraries from the builds.zip to be included and distributed through the package manager.

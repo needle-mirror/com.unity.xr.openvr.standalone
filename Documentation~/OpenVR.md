@@ -1,5 +1,7 @@
 # About OpenVR (Desktop)
 
+**NOTE: Support for built-in VR integrations will be removed in Unity 2020.1.**
+
 The OpenVR (Desktop) package enables support for building applications for OpenVR/SteamVR supported devices. The package is supported through the native virtual reality support in Unity.
 More information about native virtual reality support in Unity can be found at: https://docs.unity3d.com/Manual/XR.html
 
@@ -14,19 +16,9 @@ More detail on the Virtual Reality SDK list can be found here: https://docs.unit
 
 For additional details on using OpenVR with Unity, see the documentation here: https://docs.unity3d.com/Manual/VRDevices-OpenVR.html
 
-# Technical details
-## Requirements
-This version of OpenVR (Desktop) is compatible with the following versions of the Unity Editor:
- - 2018.3
- - 2019.1
- - 2019.2
-
-## Release Notes
-
-https://docs.metavision.com/external/doc/latest/openvr_sdk_landing_page.html
-
 ## Document revision history
 |Date|Reason|
 |---|---|
+|November 5, 2019|Deprecation.|
 |February 4, 2019|Updated package name.|
 |April 19, 2018|First Official version of OpenVR package.|
